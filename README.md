@@ -1,2 +1,3 @@
 # haunted_house
- GB Studio project
+ a GB Studio project
+ made by scareoset
